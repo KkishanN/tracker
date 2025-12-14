@@ -160,4 +160,4 @@ MIT License - feel free to use this project for learning and personal projects.
 
 ---
 
-Built with ❤️ using Next.js and AI
+Built using Next.js and AI
