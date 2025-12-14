@@ -1,7 +1,7 @@
 # 📚 StudyTracker
 
 An AI-powered study tracking application that helps you organize learning, track progress, and build intuition for complex subjects.
-(This was old project, added AI using OpenRouter and upsated UI)
+(This was old project, added AI using OpenRouter and updated UI along with some awesome features)
 ![Next.js](https://img.shields.io/badge/Next.js-13.5-black?logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)
 ![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma)
